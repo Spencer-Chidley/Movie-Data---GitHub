@@ -1,7 +1,5 @@
 # First-Repository
-Firs Git Hub Contribution
-# First-Repository
-
+First Git Hub Contribution.
 A personal sandbox for learning and practicing GitHub workflows.
 
 # About
