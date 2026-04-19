@@ -22,6 +22,6 @@ with version control.
 # Tools & Languages
 - Python / R (data analysis)
 - Git & GitHub
-- 
+  
 # Notes
 This is a learning repo — expect work in progress!
